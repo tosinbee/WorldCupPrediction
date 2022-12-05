@@ -1,0 +1,242 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Poppins:wght@200&display=swap');
+.box1-container{
+width: 608px;
+height: 376px;
+margin-top: 20px;
+margin-left: 114px;
+background: #FFFFFF;
+border-radius: 10px;
+box-shadow: 10px 10px 10px  rgba(0, 0, 0, 0.15);
+}
+
+.box2-container{
+  width: 608px;
+  height: 376px;
+  margin-top: 20px;
+  margin-left: 13px;
+  background: #FFFFFF;
+  border-radius: 10px;
+  box-shadow: 10px 10px 10px  rgba(0, 0, 0, 0.15);
+  }
+
+  .box3-container{
+    width: 608px;
+    height: 376px;
+    margin-top: 20px;
+    margin-left: 114px;
+    background: #FFFFFF;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px  rgba(0, 0, 0, 0.15);
+    }
+
+    .box4-container{
+      width: 608px;
+      height: 376px;
+      margin-top: 20px;
+      margin-left: 13px;
+      background: #FFFFFF;
+      border-radius: 10px;
+      box-shadow: 10px 10px 10px  rgba(0, 0, 0, 0.15);
+      }
+    
+.box1-container:hover{
+  border: 0.5px solid #7A2367;
+}
+.box2-container:hover{
+  border: 0.5px solid #7A2367;
+}
+.box3-container:hover{
+  border: 0.5px solid #7A2367;
+}
+.box4-container:hover{
+  border: 0.5px solid #7A2367;
+}
+
+
+.first-group{
+  display: flex;
+  padding-left: 20px;
+}
+
+
+.stats{
+  display: flex;
+  margin-left: 45%;
+}
+
+.stats-icon{
+  margin-top: 12px;
+  border-radius: 80px;
+  width: 20px;
+  height: 19px;
+  background: #efebef92;
+  padding: 5px;
+}
+
+.event{
+  display: flex;
+  margin-left: 40px;
+}
+
+.event-logo{
+  margin-top: 14px;
+  border-radius: 80px;
+  width: 20px;
+  height: 19px;
+  background: #efebef72;
+  padding: 5px;
+}
+
+.box-para1{
+  color: #7A2367;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  margin-top: 17px;
+}
+
+.box-para2{
+  color: #e2d9e0b5;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  margin-top: 17px;
+  margin-left: 6px;
+}
+
+.country-container{
+  display: flex;
+}
+
+
+
+.brazil-container{
+  width: 103px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: #e2d9e0b5;
+  border: 10px solid #b6aeb444;
+  margin: 24px 0px 12px 26px;
+}
+
+.brazil-icon img{
+  margin-top: 19px;
+  background: transparent;
+  margin: 10px 8px 12px 10px;
+}
+
+.score-group1{
+  margin-top: 32px;
+  margin-left: 42px;
+}
+
+.score-para{
+  font-size: 60px;
+  margin-right: 24px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.score-button1{
+  border: none;
+  border-radius: 50%;
+  color: #7A2367;
+  width: 30px;
+  height: 29px;
+  font-size: 20px;
+  padding-bottom: 9px;
+}
+.score-button2{
+  border: none;
+  border-radius: 50%;
+  color: #7A2367;
+  width: 31px;
+  height: 31px;
+  font-size: 20px;
+  transform: rotate(-180deg);
+  padding-bottom: 9px;
+}
+.versus{
+  font-size: 16px;
+  margin-left: 16px;
+  margin-top: 90px; 
+}
+
+hr{
+  border: 1px solid #E8E8E8;
+}
+
+.cup{
+  display: flex;
+  margin-left: 15%;
+}
+
+.cup-logo{
+  margin-top: 8px;
+  border: none;
+  background:transparent;
+}
+
+.stadium{
+display: flex;
+margin-left: 90px;
+font-style: normal;
+font-weight: 400;
+font-size: 18.40px;
+}
+
+.stadium-icon{
+  margin-top: 20px;
+  width: 20px;
+  height: 19px;
+  background: transparent;
+  margin-right: 8px;
+}
+
+.calendar{
+  margin-top: 20px;
+  width: 20px;
+  height: 19px;
+  margin-right: 8px;
+  }
+
+  .date{
+    margin-top: 20px;
+    font-size: 16.40px;
+  }
+
+  span{
+    margin-left: 10px;
+    color:#5E5E5E;
+    ;
+  }
+
+  .portugal{
+    margin-left: 23px;
+    font-size: 18px;
+    font-weight: 400;
+  }
+
+  .brazil{
+    margin-left: 23px;
+    font-size: 18px;
+    font-weight: 400;
+  }
+
+  .usa{
+    margin-left: 23px;
+    font-size: 18px;
+    font-weight: 400;
+  }
+
+  .belgium{
+    margin-left: 23px;
+    font-size: 18px;
+    font-weight: 400;
+  }
+
+  .england{
+    margin-left: 23px;
+    font-size: 18px;
+    font-weight: 400;
+  }

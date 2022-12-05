@@ -1,0 +1,129 @@
+body{
+box-sizing: border-box;
+margin: auto;
+overflow-x: hidden;
+}
+.header {
+  display: flex;
+  flex-direction: row;
+  padding: 23px;
+  width: 92%;
+  justify-content: space-around;
+}
+.logo{
+margin-left: 68px;
+padding-top: 8px;
+}
+
+.buttons-image{
+  display: flex;
+  margin-left: auto;
+  padding: 70px 30px 0 10%;
+  gap: 2em;
+}
+.btn-round1{
+  border: none;
+  color: #5E5E5E;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 17px;
+  font-weight: bold;
+  height: 43px;
+  background: #E8E8E8;
+  border-radius: 5px;
+  padding: 12px;
+}
+.btn-round1:active{
+  background: #7A2367;
+  color: white;
+}
+.btn-round1:hover{
+  background: #7A2367;
+  color: white;
+  transition: background-color 1s, color 1s;
+}
+
+.btn-round2{
+  border: none;
+  color: #5E5E5E;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 17px;
+  font-weight: bold;
+  width: 164px;
+  height: 43px;
+  background: #E8E8E8;
+  border-radius: 5px;
+}
+
+.btn-round2:active{
+  background: #7A2367;
+  color: white;
+}
+.btn-round2:hover{
+  background: #7A2367;
+  color: white;
+  transition: background-color 1s, color 1s;
+}
+
+.btn-round3{
+  border: none;
+  color: #5E5E5E;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 17px;
+  font-weight: bold;
+  justify-content: space-around;
+  width: 144px;
+  height: 43px;
+  background: #E8E8E8;
+  border-radius: 5px;
+}
+
+.btn-round3:active{
+  background: #7A2367;
+  color: white;
+}
+.btn-round3:hover{
+  background: #7A2367;
+  color: white;
+  transition: background-color 1s, color 1s;
+}
+
+.btn-image{
+  margin-left: 36.95%;
+}
+
+.country-boxes1{
+  display: flex;
+  width: 100%;
+  margin-left: 10px;
+}
+
+.country-boxes2{
+  display: flex;
+  width: 100%;
+  margin-left: 10px;
+}
+
+.submit{
+  background: #E8E8E8;
+  border: none;
+  color: #5E5E5E;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 17px;
+  font-weight: bold;
+  justify-content: space-around;
+  width: 564px;
+  height: 43px;
+  background: #E8E8E8;
+  border-radius: 5px;
+  margin-left: 450px;
+}
+
+.submit:active{
+  background: #7A2367;
+  color: white;
+}
+.submit:hover{
+  background: #7A2367;
+  color: white;
+  transition: background-color 1s, color 1s;
+}
